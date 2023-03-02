@@ -6,8 +6,10 @@
 
 *[KekikKahve](https://t.me/KekikKahve) Radyocu Ablası* **| Telegram Sesli Sohbet Radyo Botu**
 ## 🚀 Kurulum
+Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/keyiflerolsun/KekikRadyo)
 
-pip ile `requirements` ve sisteminize `opus-tools` kurup, `config.py` editleyerek başlayabilirsiniz..
+*Beni [Github'dan](https://github.com/derdomucis) takip etmeyi unutmayın ✌️**
+pip ile `requirements` ve sisteminize `opus-tools` kurup, `config.py` düzenleyerek başlayabilirsiniz..
 
 ### <u>🔒 **Yetkili Komutları __(5)__;**</u>
 Komut | Açıklama
